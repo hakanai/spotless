@@ -10,6 +10,7 @@ dependencies {
 	api "com.diffplug.durian:durian-core:${VER_DURIAN}"
 	api "com.diffplug.durian:durian-testlib:${VER_DURIAN}"
 	api "org.junit.jupiter:junit-jupiter:${VER_JUNIT}"
+	api "org.junit.jupiter:junit-jupiter-params:${VER_JUNIT}"
 	api "org.assertj:assertj-core:${VER_ASSERTJ}"
 
 	implementation "com.diffplug.durian:durian-io:${VER_DURIAN}"
